@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         view.spacing = 8
         view.distribution = .fill
         view.alignment = .center
-//        view.layoutMargins = .init(top: 8, left: 0, bottom: 8, right: 0)
+        view.layoutMargins = .init(top: 8, left: 0, bottom: 8, right: 0)
         view.translatesAutoresizingMaskIntoConstraints = false
         
         return view
