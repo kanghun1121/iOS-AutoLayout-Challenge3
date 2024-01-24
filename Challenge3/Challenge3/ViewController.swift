@@ -1,19 +1,15 @@
 //
 //  ViewController.swift
 //  Challenge3
-//  Created by yagom.
-//  Copyright © yagom. All rights reserved.
-// 
+//
+//  Created by 맨태 on 1/23/24.
+//
 
 import UIKit
 
 class ViewController: UIViewController {
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
-
